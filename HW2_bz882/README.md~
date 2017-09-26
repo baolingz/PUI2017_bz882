@@ -28,3 +28,8 @@ Assignment 3: Read CSV files with pandas
 3. I used pandas to read in the CSV file from the DF into a pandas dataframe
 4. I created a new dataframe which contains only the 2 numberical values columns I selected
 5. I Plot the Columns one against the other in a scatter plot.
+
+Extra Credit Assignment: Work with dates in Pandas
+
+1. I repeat the steps in Assignment 3 with a CSV file that contains a date/time and a numberical value. 
+2. I Plot the numbercial value against the date/time.
