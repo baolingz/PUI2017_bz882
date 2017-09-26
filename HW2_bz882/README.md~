@@ -8,7 +8,7 @@ Assignment 1: Tracking each vehicle for a line
 2. A sample terminal command: python show_bus_locations.py <MTA_KEY> <BUS_Line>
 3. The Program will return the following output:\
 
-   1)the bus name,\
+   1)the bus name\
    2)the number of vehicles\
    3)their current position
 

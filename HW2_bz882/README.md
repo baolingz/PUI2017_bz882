@@ -6,7 +6,7 @@ Assignment 1: Tracking each vehicle for a line
 
 1. I wrote a Python script named as show_bus_locations_bz882.py to retrieve and report information about the real-time coordinates of each bus for a given bus line. 
 2. A sample terminal command: python show_bus_locations.py <MTA_KEY> <BUS_Line>
-3. The Program will return the following output:\
+3. The Program will return the following output:
 
    1)the bus name\
    2)the number of vehicles\
@@ -16,7 +16,7 @@ Assignment 2:Next Stop Information
 
 1. I wrote a Python script named as get_bus_info_bz882.py that displays informaiton on the next stop location of all busses of a given line. For example, whether the bus is  approching a stop ,or is 1 stop away from it.
 2. A sample terminal command: python get_bus_info.py <MTA_KEY> <BUS_Line>
-3. The Program will output to a CSV file named as <BUS_Line>.csv and return the following outputs:\
+3. The Program will output to a CSV file named as <BUS_Line>.csv and return the following outputs:
 
    1)Latitude\
    2)Longitude\
