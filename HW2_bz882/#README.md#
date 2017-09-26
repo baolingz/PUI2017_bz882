@@ -1,0 +1,7 @@
+Assignment Preparation:
+
+1. I requested for the API key to the MTA Bus Time at the MTA Developers Tools 
+visited MTA Bus Time for Developers at the MTA Developers Tools.
+
+Assignment 2: tracking each vehicle for a line
+1. I wrote a Python script (not a notebook this time, so that you can experiment with writing code that takes line inputs) to retrieve and report informationabout active vehicle for a bus line.
