@@ -18,6 +18,6 @@ Experimemtal setup: measure IQ of children of smokers and non-smokers at age 1, 
 3. Food deserts contribute to the incidence of diabetes Food deserts are defined as parts of the country vapid of fresh fruit,\
 vegetables, and other healthful whole foods, usually found in impoverished areas. This is largely due to a lack of grocery stores, farmers' markets, and healthy food providers.
 
-<b>Null</b>: 
+<b>Null</b>: There is no spatial correlation between the incidence of diatbetes and the provision of food deserts.
 
 This is not a lab experiment, but you have data on the incidence of diabetes for the US population.
