@@ -1,0 +1,28 @@
+HW3_Assignment 1 and 3. I finished the homework individually.
+
+HW3_Assignment 2 CitiBike
+
+I work with Marium Sultan. She thought of the idea and generated the hypothesis formulas. I labeled all the observations with 'daytime rider' or 'nighttime rider' by using the 'time_checker' function I created. We worked on the ploting collabratively by refering to the the sample code written by Professor Bianco.
+
+Besides, we are using different Citibike datasets. Mine is from 201501 and Marium's is from 201707 but we were using the same methodology and syntax.
+
+Assignment 1: Write an ipython notebook that demonstrates visually in a data-driven way the Central Limit Theorem.
+
+1) Plot Chi-square distribution, Normal distribution, Poisson distribution, Binomial distribution, and Non-Binomial distribution.
+2) Plot the distribution of 100 sample means for each distribution.
+3) Fit a gaussian to the distribution of means (together for all distributions).
+
+Assignment 2: Set up the work for data-driven inference based on CitiBike data.
+
+1) Form a hypothesis and assign a significance level.
+2) Store the data in PUIDATA and read the data.
+    Plot the number of trips, separate Subscriber from Customer.
+    Add the std in the figure.
+    Normalize the distribution of trips.
+
+Assignment 3: Finish z-test lab and turn it in as a notebook.
+
+    Form a hypothesis and assign a significance level.
+    Store the data in PUIDATA and read the data.
+    Calculating the Z-statistic.
+    Draw a conclusion based on the result.
