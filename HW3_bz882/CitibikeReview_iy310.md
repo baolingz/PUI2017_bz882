@@ -1,4 +1,4 @@
-Hi Pauline!
+Hi Pauline! This is Ilha commenting on your citi-bike multi-week assignment
 
 ## A. Hypothesis
 Null hypothesis: The ratio of men biking during nighttime (7pm - 5am) over man biking during daytime (5am - 7pm) is lower than the ratio of women biking during nighttime over daytime.
@@ -17,4 +17,4 @@ Although we have no access to the standard deviation valuation of the population
 Good job!
 
 
-- iy310
+-written by iy310
