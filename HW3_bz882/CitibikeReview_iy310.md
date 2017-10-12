@@ -1,23 +1,20 @@
-written by iy310
+Hi Pauline!
 
-1. a. verify that their Null and alternative hypotheses are formulated correctly
-
-b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test was not chosen yet)
-
-c. chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or here, or Statistics in a Nutshell.
-
-A. Hypothesis
+## A. Hypothesis
 Null hypothesis: The ratio of men biking during nighttime (7pm - 5am) over man biking during daytime (5am - 7pm) is lower than the ratio of women biking during nighttime over daytime.
 Alternative hypothesis: The ratio of men biking during night time over daytime is greater than that the ratio of women biking during night time over daytime.
 
 The null and alternative hypotheses are both correctly formulated. Although shown in the H0, H1 equations, I would just add the 'equal to' part in the text-descriptiive null hypothesis that the ratio of men is less than OR EQUAL TO the ration of women.
 
-B. Data
+## B. Data
 The data has the approporiate variables of gender and time. They were both processed correctly to extract the needed values.
 Excellent way of using a little function to sort through using the dt.datetime and assign the daytime nighttime taxonomies.
 
-C. Test
+## C. Test
 For the type of data that is being dealt here, I believe the most approporiate tests are the t test or Z test. Both are apt in comparing the means of the two groups ato show if there is a difference when approximately normally distributed. 
 Although we have no access to the standard deviation valuation of the population, since the sample sizes are quite large, using the Z-test is still excellent for testing the difference of the means of the two samples. 
 
 Good job!
+
+
+- iy310
