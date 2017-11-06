@@ -10,6 +10,8 @@ t-test	| 1, listen or not listen to happy music duirng the task  | categorical |
 correlation | 10, ten physicochemical properties of larval habitats(Temperature, Acidity,Turbidity,Electrical conducticity,Alkalinity, Nitrate, Total hardness, Chloride, Phosphate, Sulphate)  | categorical | 1, Larval density| numerical | 2, 15 species; 11 different habitates | categorical | 	How strongly and in what direction are physicochemical factors and larval density related | there was no significant negative correlation between physicochemical characteristics and larval abundance | 0.05 | [Correlation between mosquito larval density and their habitat physicochemical characteristics in Mazandaran Province, northern Iran](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0005835) | 
 Logistic Regression	| 1.credit score | continious  | 1.default or not default | categorical ||| 	How does application credit scoring determine the probability that a credit applicant will default on his/her credit obligation | there is no significant correlation between credit scoring and default rate of applicant | 1 | [Large Unbalanced Credit Scoring Using Lasso-Logistic Regression Ensemble](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0117844) |
 
+# FBB good
+
 # Assignment 3
 I finished this assignment individually
 
