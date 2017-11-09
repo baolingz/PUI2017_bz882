@@ -7,3 +7,5 @@ She is responsible for downloading and cleaning the data. I am doing data analys
 Marium's Authorea Account: mas1300@nyu.edu
 
 My Authorea Account: bz882@nyu.edu
+
+Authorea URL: https://www.authorea.com/users/175510/articles/210897-data-driven-document
