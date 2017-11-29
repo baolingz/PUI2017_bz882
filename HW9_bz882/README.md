@@ -13,4 +13,4 @@
 - Worked independently.
 
 ### HW 9-2
-- Worked independently.
+- Worked independently. Ask Vivian and Fangshu about how to download data from fact finder and how to debug regarding sjoin.
